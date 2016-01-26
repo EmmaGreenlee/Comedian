@@ -1,0 +1,12 @@
+public class SpeakerTester 
+{
+	
+	public static void main(String[] args) 
+	{
+		Comedian h = new Comedian("Hank");
+		Comedian b = new Comedian("Bruce");
+		
+		System.out.println(h);
+		System.out.println(b);
+	}
+}
