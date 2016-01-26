@@ -1,0 +1,15 @@
+public class Comedian 
+{
+	private String name;
+
+	public Comedian(String name) 
+	{
+		super();
+		this.name = name;
+	}
+
+	public String toString() 
+	{
+		return "My name is " + name + "!";
+	}
+}
